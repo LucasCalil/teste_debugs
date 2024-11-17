@@ -1,0 +1,5 @@
+
+1. Erro na função adicao: A operação está sendo duplicada ao usar np.add.
+2. Erro na função fatorial: Lógica incorreta no cálculo do fatorial.
+3. Erro na função logaritmo_natural: Chamada incorreta de np.ln em vez de np.log.
+4. Erro na função logaritmo_base10: Não considera casos onde x == 0.
